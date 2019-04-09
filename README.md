@@ -1,0 +1,2 @@
+# CPF-MEDICAL-MAPONYA911
+We as medic in Phalaborwa struggle to get to know who is membership with us. so on this app we would like to see payments like if someone wants a qoute or invoice. to fill in forms to become a membership in phalaborwa south africa. and if there is emergency the app will alert the medic, fire dep, police and all emergency personal. and show us the app for anything where you are in case of a emergency
